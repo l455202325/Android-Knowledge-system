@@ -8,53 +8,53 @@
 #### 1.布局
 
 ```
-      线性布局（LinearLayout）
-      相对布局（RelativeLayout）
-      帧布局（FrameLayout）
-      表格布局（TableLayout）
-      约束布局（ConstraintLayout）
+线性布局（LinearLayout）
+相对布局（RelativeLayout）
+帧布局（FrameLayout）
+表格布局（TableLayout）
+约束布局（ConstraintLayout）
 ```
 
 #### 1.组件
 
 ```
-      TextView
-      ImageView
-      ImageButton
-      VideoView
-      Button
-      EditText
-      ToggleButton
-      CheckBox
-      RadioGroup
-      RadioButton
-      CheckedTextView
-      Spinner
-      ProgressBar
-      SeekBar
-      QuickContactBadge
-      RatingBar
-      Switch
-      Space
-      AutoCompleteTextView
-      MultiAutoCompleteTextView
-      ListView
-      GridView
-      ExpandableListView
-      ScrollView
-      HorizontalScrollView
-      TabHost
-      WebView
-      SearchView
-      CardView
-      GridLayout
-      RecyclerView
-      Toolbar
-      AppBarLayout
-      CollapsingToolbarLayout
-      NestedScrollView
-      SurfaceView
-      TextureView
+TextView
+ImageView
+ImageButton
+VideoView
+Button
+EditText
+ToggleButton
+CheckBox
+RadioGroup
+RadioButton
+CheckedTextView
+Spinner
+ProgressBar
+SeekBar
+QuickContactBadge
+RatingBar
+Switch
+Space
+AutoCompleteTextView
+MultiAutoCompleteTextView
+ListView
+GridView
+ExpandableListView
+ScrollView
+HorizontalScrollView
+TabHost
+WebView
+SearchView
+CardView
+GridLayout
+RecyclerView
+Toolbar
+AppBarLayout
+CollapsingToolbarLayout
+NestedScrollView
+SurfaceView
+TextureView
 ```
 
 ## 1.中级篇（）
