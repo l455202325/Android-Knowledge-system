@@ -8,7 +8,7 @@
 #### 1.布局
 
 ```
-线性布局（LinearLayout）
+* [线性布局（LinearLayout）](线性布局（LinearLayout）.md)
 相对布局（RelativeLayout）
 帧布局（FrameLayout）
 表格布局（TableLayout）
