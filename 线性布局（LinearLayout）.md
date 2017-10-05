@@ -30,7 +30,9 @@
 
 ##### 下面再看看不给子元素设置默认宽度值为0dp，设置为wrap_content
 
-![布局文件.png](http://upload-images.jianshu.io/upload_images/938571-841aa44ec6b0d0be.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)![效果.png](http://upload-images.jianshu.io/upload_images/938571-ae1e7feddda90cb1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![布局文件.png](http://upload-images.jianshu.io/upload_images/938571-841aa44ec6b0d0be.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![效果.png](http://upload-images.jianshu.io/upload_images/938571-ae1e7feddda90cb1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > 看到这种情况，回想到是不是我这权重不起作用了呢，怎么没有达到预期的效果，为什么第一个明明应该占1/3，为啥成这个样子了呢？其实是没有问题的，一开始我们就说了，这个layout_weight是占**剩余空间**的权重，出现这种情况就不奇怪了。
 
 > ### 总结：
