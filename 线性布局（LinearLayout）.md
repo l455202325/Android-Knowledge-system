@@ -23,8 +23,9 @@
 
 ##### 现在给父元素设置一个android:weightSum="5"，再看看效果
 
+![布局文件.png](http://upload-images.jianshu.io/upload_images/938571-f72908bb13f06895.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![布局文件.png](http://upload-images.jianshu.io/upload_images/938571-f72908bb13f06895.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)![效果.png](http://upload-images.jianshu.io/upload_images/938571-fc08320480625c7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![效果.png](http://upload-images.jianshu.io/upload_images/938571-fc08320480625c7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 > 这样给父元素设置了weightSum之后 子元素的权重值就受到父元素的权重值得影响，子元素的权重值之和不能大于父元素的权重，如果子元素的权重值大于父元素的weightSum值，那么只取前面的，后面的元素就不会出现，页面也就看不到了。这种情况我也就不截图了，大家可以自行尝试。
 
